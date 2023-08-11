@@ -21,4 +21,4 @@ que você possa se basear.
 Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
 utilizando o comando `git checkout final` no seu terminal.
 
-[Minha Landing page:](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) clique aqui para ver o resultado final da minha Landing Page criada a partir do desafio!
+[Minha Landing page ☕:](https://luizfcs35.github.io/Landing-Page-CSS/) clique aqui para ver o resultado final da minha Landing Page criada a partir do desafio!😀
